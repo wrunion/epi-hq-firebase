@@ -23,8 +23,6 @@ function NewTicketForm(props){
     );
   }
 
-
-
   return (
     <React.Fragment>
       <ReusableForm 
